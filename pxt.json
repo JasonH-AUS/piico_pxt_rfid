@@ -30,6 +30,7 @@
         "picodev-servo.ts",
         "picodev-ssd1306.ts",
         "picodev-transceiver.ts",
+        "picodev-rfid.ts",
         "icon.png"
     ],
     "testFiles": [
